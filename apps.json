@@ -38,7 +38,7 @@
             "Id": "com.tizu.writer",
             "Name": "Magical Writer",
             "Version": "1.0.0",
-            "Icon": "",
+            "Icon": "https://raw.githubusercontent.com/tizuWare/tAppStore-Database/main/AppIcons/com/tizu/writer.png",
             "Description": "Magical Writer lets you globally write with a smartphone-like suggestion bar and autocorrect. It is AI-driven and supports profiles for different languages.",
             "RepoUrl": "",
             "BugtrackerUrl": "",
@@ -68,17 +68,22 @@
             "DeveloperUrl": "https://github.com/tizu69/"
         },
         {
-            "Id": "com.tizu.nomoreoverflow",
-            "Name": "NoMoreOverflow",
+            "Id": "com.tizu.commentoverflow",
+            "Name": "CommentOverflow",
             "Version": "1.0.0",
-            "Icon": "",
+            "Icon": "https://raw.githubusercontent.com/tizuWare/tAppStore-Database/main/AppIcons/com/tizu/commentoverflow.png",
             "Description": "Extension for common IDEs that works like GitHub Copilot, but uses Google in the background to search for Stack Overflow answers and returns AI-modified code to match your goals and variables.",
             "RepoUrl": "",
             "BugtrackerUrl": "",
             "Download": [
                 {
-                    "Lang": "English",
-                    "Code": "en-us",
+                    "Lang": "Visual Studio",
+                    "Code": "?",
+                    "Url": ""
+                },
+                {
+                    "Lang": "VS Code",
+                    "Code": "?",
                     "Url": ""
                 }
             ],
