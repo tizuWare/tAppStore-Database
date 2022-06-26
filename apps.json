@@ -30,7 +30,7 @@
             },
             "InstallerMB": 0.0,
             "ApplicationMB": 0.0,
-            "AllowDownload": false,
+            "AllowDownload": true,
             "Developer": "Tizu69",
             "DeveloperUrl": "https://github.com/tizu69/"
         },
