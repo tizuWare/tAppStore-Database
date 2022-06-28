@@ -1,6 +1,3 @@
-###### I told you not to go here!
-![Alt Text](https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif)
-
 # tAppStore-Database
 The "database" of the tizuWare App Store.
 
