@@ -143,7 +143,7 @@
             "Name": "SimpleADB",
             "Version": "1.0.0",
             "Icon": "https://raw.githubusercontent.com/tizuWare/tAppStore-Database/main/AppIcons/com/tizu/simpleadb.png",
-            "Description": "SimpleADB lets you use ADB on your Android device without having to use commands.",
+            "Description": "SimpleADB lets you use ADB on your Android device without having to use commands. This also includes a function to automate actions, useful for app developers that want to install apps on your phone - Don't worry, you have to confirm the actions before they're taken.",
             "RepoUrl": "",
             "BugtrackerUrl": "",
             "Download": [
