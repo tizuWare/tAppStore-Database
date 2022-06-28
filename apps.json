@@ -203,6 +203,39 @@
             "AllowDownload": false,
             "Developer": "Tizu69 (Team tizuWare)",
             "DeveloperUrl": "https://github.com/tizu69/"
-        }
+        },
+        {
+            "Id": "com.tizu.tAppStore",
+            "Name": "tAppStore",
+            "Version": "1.0.0",
+            "Icon": "https://raw.githubusercontent.com/tizuWare/tAppStore-Database/main/AppIcons/com/tizu/tAppStore.png",
+            "Description": "SimpleADB lets you use ADB on your Android device without having to use commands. This also includes a function to automate actions, useful for app developers that want to install apps on your phone - Don't worry, you have to confirm the actions before they're taken.",
+            "RepoUrl": "https://github.com/tizuWare/tAppStore",
+            "BugtrackerUrl": "https://github.com/tizuWare/tAppStore/issues",
+            "Download": [
+                {
+                    "Lang": "Update",
+                    "Code": "update",
+                    "Url": "https://github.com/tizuWare/tAppStore-Database/blob/main/AppFiles/com/tizu/tAppStore.exe?raw=true"
+                }
+            ],
+            "Changelog": [
+                {
+                    "Version": "1.0.0",
+                    "Text": "Initial release"
+                }
+            ],
+            "InstallerArgs": {
+                "CommandLine": "",
+                "RequireElevation": false,
+                "DefaultPath": "",
+                "ProvideLanguageCode": false
+            },
+            "InstallerMB": 0.0,
+            "ApplicationMB": 0.0,
+            "AllowDownload": true,
+            "Developer": "Tizu69 (Team tizuWare)",
+            "DeveloperUrl": "https://github.com/tizu69/"
+        },
     ]
 }
