@@ -176,7 +176,7 @@
             "Name": "Make Me Installer",
             "Version": "1.0.0",
             "Icon": "https://raw.githubusercontent.com/tizuWare/tAppStore-Database/main/AppIcons/com/tizu/installer.png",
-            "Description": "Create your own Installers that just look like the ones for tizuWare apps.",
+            "Description": "Create your own Installers that just look like the ones from tizuWare apps.",
             "RepoUrl": "",
             "BugtrackerUrl": "",
             "Download": [
