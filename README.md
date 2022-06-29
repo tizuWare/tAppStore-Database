@@ -18,12 +18,12 @@ The database file may look like this (as a reference with comments):
                 {
                     "Lang": "English", // Language displayed to the user
                     "Code": "en-us", // Language code. Can be anything but has to be different from other language codes for this app
-                    "Url": "https://..." // Download URL for this language or a universal installer
+                    "Url": "https://...", // Download URL for this language or a universal installer
                 },
                 {
                     "Lang": "German",
                     "Code": "de-de",
-                    "Url": "https://..."
+                    "Url": "https://...",
                 },
             ],
             "Changelog": [
