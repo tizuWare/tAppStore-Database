@@ -110,7 +110,7 @@
             "Name": "RemoteStarter",
             "Version": "1.0.0",
             "Icon": "https://raw.githubusercontent.com/tizuWare/tAppStore-Database/main/AppIcons/com/tizu/remotestarter.png",
-            "Description": "Start and shut down your PC from anywhere in your LAN using your Android Phone or WearOS Watch. Forgot to turn off your PC? No problem. Turn it on at the morning so it's ready when you are ready? No problem.",
+            "Description": "Start and shut down your PC from anywhere in your LAN using your Android Phone or WearOS Watch. Forgot to turn off your PC? No problem. Turn it on at the morning so it's ready when you are ready? No problem. Requires SimpleADB for installation.",
             "RepoUrl": "",
             "BugtrackerUrl": "",
             "Download": [
