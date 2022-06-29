@@ -216,7 +216,8 @@
                 {
                     "Lang": "Update",
                     "Code": "update",
-                    "Url": "https://github.com/tizuWare/tAppStore-Database/blob/main/AppFiles/com/tizu/tAppStore.exe?raw=true"
+                    "Url": "https://github.com/tizuWare/tAppStore-Database/blob/main/AppFiles/com/tizu/tAppStore.exe?raw=true",
+                    "AllowOn": 1
                 }
             ],
             "Changelog": [
