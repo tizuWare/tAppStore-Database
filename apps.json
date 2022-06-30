@@ -172,11 +172,11 @@
             "DeveloperUrl": "https://github.com/tizu69/"
         },
         {
-            "Id": "com.tizu.installer",
-            "Name": "Make Me Installer",
+            "Id": "com.tizu.codeblocks",
+            "Name": "CodeBlocks",
             "Version": "1.0.0",
-            "Icon": "https://raw.githubusercontent.com/tizuWare/tAppStore-Database/main/AppIcons/com/tizu/installer.png",
-            "Description": "Create your own Installers that just look like the ones from tizuWare apps.",
+            "Icon": "https://raw.githubusercontent.com/tizuWare/tAppStore-Database/main/AppIcons/com/tizu/codeblocks.png",
+            "Description": "Create your own C# WPF applications without using code.",
             "RepoUrl": "",
             "BugtrackerUrl": "",
             "Download": [
