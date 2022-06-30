@@ -172,39 +172,6 @@
             "DeveloperUrl": "https://github.com/tizu69/"
         },
         {
-            "Id": "com.tizu.codeblocks",
-            "Name": "CodeBlocks",
-            "Version": "1.0.0",
-            "Icon": "https://raw.githubusercontent.com/tizuWare/tAppStore-Database/main/AppIcons/com/tizu/codeblocks.png",
-            "Description": "Create your own C# WPF applications without using code.",
-            "RepoUrl": "",
-            "BugtrackerUrl": "",
-            "Download": [
-                {
-                    "Lang": "English",
-                    "Code": "en-us",
-                    "Url": ""
-                }
-            ],
-            "Changelog": [
-                {
-                    "Version": "1.0.0",
-                    "Text": "Initial release"
-                }
-            ],
-            "InstallerArgs": {
-                "CommandLine": "",
-                "RequireElevation": false,
-                "DefaultPath": "",
-                "ProvideLanguageCode": false
-            },
-            "InstallerMB": 0.0,
-            "ApplicationMB": 0.0,
-            "AllowDownload": false,
-            "Developer": "Tizu69 (Team tizuWare)",
-            "DeveloperUrl": "https://github.com/tizu69/"
-        },
-        {
             "Id": "com.tizu.tAppStore",
             "Name": "tAppStore",
             "Version": "1.0.0",
