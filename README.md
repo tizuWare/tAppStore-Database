@@ -26,10 +26,10 @@ The database file may look like this (as a reference with comments):
                     "Url": "https://...",
                 },
             ],
-            "Changelog": [
+            "Changelog": [ // Currently unused, but provide this for being up-to-date with future versions
                 {
                     "Version": "1.0.1", // Version number
-                    "Text": "Bugs fixed\nSome other stuff" // Changelog. Has to be plain text, soon Markdown will be supported
+                    "Text": "Bugs fixed\nSome other stuff" // List of changes
                 },
                 {
                     "Version": "1.0.0",
