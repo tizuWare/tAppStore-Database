@@ -31,6 +31,7 @@
             "InstallerMB": 0.0,
             "ApplicationMB": 0.0,
             "AllowDownload": false,
+            "ShowInAppList": true,
             "Developer": "Tizu69 (Team tizuWare)",
             "DeveloperUrl": "https://github.com/tizu69/"
         },
@@ -64,6 +65,7 @@
             "InstallerMB": 0.0,
             "ApplicationMB": 0.0,
             "AllowDownload": false,
+            "ShowInAppList": true,
             "Developer": "Tizu69 (Team tizuWare)",
             "DeveloperUrl": "https://github.com/tizu69/"
         },
@@ -102,6 +104,7 @@
             "InstallerMB": 0.0,
             "ApplicationMB": 0.0,
             "AllowDownload": false,
+            "ShowInAppList": true,
             "Developer": "Tizu69 (Team tizuWare)",
             "DeveloperUrl": "https://github.com/tizu69/"
         },
@@ -135,6 +138,7 @@
             "InstallerMB": 0.0,
             "ApplicationMB": 0.0,
             "AllowDownload": false,
+            "ShowInAppList": true,
             "Developer": "Tizu69 (Team tizuWare)",
             "DeveloperUrl": "https://github.com/tizu69/"
         },
@@ -168,6 +172,7 @@
             "InstallerMB": 0.0,
             "ApplicationMB": 0.0,
             "AllowDownload": false,
+            "ShowInAppList": true,
             "Developer": "Tizu69 (Team tizuWare)",
             "DeveloperUrl": "https://github.com/tizu69/"
         },
@@ -201,6 +206,7 @@
             "InstallerMB": 0.0,
             "ApplicationMB": 0.0,
             "AllowDownload": true,
+            "ShowInAppList": false,
             "Developer": "Tizu69 (Team tizuWare)",
             "DeveloperUrl": "https://github.com/tizu69/"
         }
