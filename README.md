@@ -45,6 +45,7 @@ The database file may look like this (as a reference with comments):
             "InstallerMB": 0.0, // Size in MB of installer
             "ApplicationMB": 0.0, // Size in MB of application and related
             "AllowDownload": false, // If the download option should be shown, useful when server changes are planned in near future
+            "ShowInAppList": true, // Do not use this, it hides your app from the store
             "Developer": "Me", // Your developer name shown to the user
             "DeveloperUrl": "https://github.com/example/" // Your developer url. If not provided, the button is not shown
         },
